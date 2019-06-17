@@ -1,0 +1,417 @@
+\documentclass[10pt]{article}
+
+\title{List of publications}
+\author{Fran\c{c}ois Lauze}
+\usepackage{francois-preamble}
+
+\setlength{\textwidth}{17cm}
+\setlength{\textheight}{20cm}
+\setlength{\oddsidemargin}{-1cm}
+
+
+\begin{document}
+\maketitle
+
+\begin{description}
+\item[Publications in 2016]~\\
+
+  \begin{enumerate}
+  \item M. G. Liptrot, F. Lauze. \textbf{Assessment of Rotationally-Invariant Clustering
+      Using Streamlet Tractography}. Abstract Proceedings of SPIE Medical Imaging (Image
+    Processing), San Diego, 2016.  
+    \item M. G. Liptrot, F. Lauze. \textbf{ Rotationally
+      invariant clustering of diffusion MRI data using spherical
+      harmonics}. Abstract. <em> to appear in Proceedings of the </em> 24th Annual
+      Meeting of the International Society for Magnetic Resonance in Medicine (ISMRM),
+      Singapore, 2016.  
+  \end{enumerate}
+
+\item[Publications in 2015]~\\
+
+  \begin{enumerate}
+  \item H. G. Jensen, M. Nielsen, F. Lauze and S. Darkner.  \textbf{Locally Orderless
+      Registration for Diffusion Weighted Images }.  Proceedings of the 18th Conference on
+    Medical Image Computing and Computer Aided Intervention (MICCAI), 2015.
+
+  \item C. N. Ladefoged, F. L. Andersen, S. H. Keller, T. Beyer, I. Law, L. H{\o};jgaard,
+    S. Darkner, F. Lauze.  \textbf{ Automatic Correction of Dental Artifacts in PET/MRI }
+    \textit{ accepted, Journal of Medical Imaging (SPIE | JMI), } 2015.
+
+  \item A. Feragen, F. Lauze, S. Hauberg \textbf{ Geodesic Exponential Kernels: When
+      Curvature and Linearity Conflict } \textit{Proceedings of IEEE CVPR 2015, 3032-3042}
+
+  \item Y. Qu{\'e}au, F. Lauze and J. D. Durou.  \textbf{ A L1-TV algorithm for robust
+      perspective photometric stereo with spatially-varying lightings.  } \textit{ to
+      appear in Proceedings of the Fifth International Conference on Scale Space and
+      Variational Methods in Computer Vision, SSVM}, 2015.
+
+  \item C. N. Ladefoged, A. E. Hansen, S. H. Keller, B. M. Fischer, J. H. Rasmussen,
+    I. Law, T. Beyer, A. Kj{\ae}r, L. H{\o}jgaard, F. Lauze, F. L. Andersen.  \textbf{
+      Improving quality and accuracy of PET/MR imaging of the brain, head and neck through
+      inpainting of dental artifacts.  } \textit{ to appear in European Journal of Nuclear
+      Medicine and Molecular Imaging - Physics (EJNMMI-Physics) }, 2015.
+
+  \item Y. Qu{\'e}au, F. Lauze and J. D. Durou.  \textbf{ Solving Uncalibrated Photometric
+      Stereo using Total Variation.  } \textit{ Journal of Mathematical Imaging and Vision
+      52(1):87-107}, 2015.
+  \end{enumerate}
+
+
+\item[Publications in 2014]~\\
+
+  \begin{enumerate}
+  \item M. Liptrot, F. Lauze \textbf{ A Model-Free Unsupervised Method to Cluster Brain
+      Tissue Directly From DWI Volumes.  } \textit{ Proceedings of the Annual Meeting of
+      the International Society for Magnetic Resonance in Medicine, ISMRM }, 2014.
+
+  \item A. Feragen, M. Nielsen, E. B. Vedel Jensen, A. du Plessis, F. Lauze \textbf{
+      Geometry and statistics : manifolds and stratified spaces.  } \textit{ Journal of
+      Mathematical Imaging and Vision, 50(1-2):1-4}, 2014.
+
+  \item C. N. Ladefoged, F. Andersen, S. H. Keller, T. Beyer, L. H{\o}jgaard and F. Lauze.
+    \textbf{ Correction of Dental Artifacts in PET/MRI Using Active Shape Models.  }
+    \textit{ Proceedings of SPIE Medical Imaging, Volume 9034}, 2014.
+
+  \item <a name="sommer-lauze-etal:11"></a>S.-H. Sommer, F. Lauze, and M. Nielsen.
+    \textbf{Optimization over Geodesics for Exact Principal Geodesic Analysis.}.  \textit{
+      Advances in Computational Mathematics, 40(2):283-313 }, 2014.  [<a
+    href="http://arxiv.org/abs/1008.1902">WWW</a>]
+  \end{enumerate}
+
+\item[Publications in 2013]~\\
+  
+  \begin{enumerate}
+  \item C. N. Ladefoged, T. Bayer, S. H. Keller, I. Law, F. Lauze, L. H{\o}jgaard,
+    A. Kj{\ae}r and F. Andersen.  \textbf{ PET/MR imaging of head/neck in the presence of
+      dental implants: reducing image artifacts and increasing accuracy through
+      inpainting.  } \textit{ Abstract. Presented at the Annual Conference of the European
+      Association of Nuclear Medicine (EANM)}, 2013
+
+  \item C. N. Ladefoged, F. Andersen, T. Beyer, A. E. Hansen, S. H. Keller, I. Law,
+    L. H{\o}jgaard, A. Kj{\ae}r and F. Lauze.  \textbf{ PET/MR Imaging of the Head/Neck:
+      Automatic Correction of Dental Implant Artifacts Exceeding Anatomical Surfaces.  }
+    \textit{Summary, Presented at the IEEE Nuclear Science Symposium and Medical Imaging
+      Conference (NSS/MIC)} 2013.
+
+  \item Y. Qu{\'e}au, F. Lauze and J. D. Durou.  \textbf{ Solving the Uncalibrated
+      Photometric Stereo Problem Using Total Variation.  }\textit{To appear in Proceedings
+      of the 4th International Conference on Scale Space and Variational Methods in
+      Computer Vision (SSVM)}, 2013
+
+  \item F.-B. Lauze, and K.-S. Pedersen.  \textbf{Unscented Kalman Filters on Riemannian
+      Manifolds}.  \textit{Journal of Mathematical Imaging and Vision, 46(1):103-120},
+    2013.
+
+  \item A. Prasoon, K. P. Petersen, C. Igel, F. Lauze, E. B. Dam, and M. Nielsen.
+    \textbf{ Deep Feature Learning for Knee Cartilage Segmentation Using a Triplanar
+      Convolutional Neural Network.  }\textit{ To appear in Proceedings of the 16th
+      International Conference on Medical Image Computing and Computer Assisted
+      Intervention (MICCAI)}, 2013.
+
+  \item A. Prasoon, C. Igel, F. Lauze, M. Loog, E. Dam, M. Nielsen.  \textbf{ Femoral
+      Cartilage Segmentation in Knee MRI Scans Using Two Stage Voxel Classification.
+    }\textit{To appear in Proceedings of the 13th IEEE Engineering in Medicine and Biology
+      Conference (EMBC)}, 2013.
+
+  \item A. Feragen, P. Lo, M. de Bruijne, and F. B. Lauze.  \textbf{Towards a Theory of
+      Statistical Tree Shape Analisys.}.  \textit{IEEE Transaction on Pattern Analysis and
+      Machine Intelligence, 35(8):2008-2012}, 2013.
+
+  \item S. Sommer, F. Lauze, M. Nielsen and X. Pennec.  \textbf{Sparse Multi-Scale
+      Diffeomorphic Registration: the Kernel Bundle Framework.  }\textit{ Journal of
+      Mathematical Imaging and Vision, 46(3):292-308}, 2013.
+
+  \item S.-S. Brandt, K. Hommelhoff Jensen and F. Lauze.  \textbf{On the Bayesian
+      Reconstruction Method For Randomly Oriented Particles in Cryo-EM.  } \textit{
+      Proceedings of IEEE Internationa Symposium on Biomedical Imaging (ISBI)}, 2013.
+  \end{enumerate}
+
+\eject
+\item[Publications in 2012]~\\
+  \begin{enumerate}
+  
+  \item S.-S. Brandt, K. Hommelhoff Jensen and F. Lauze.  \textbf{Bayesian Epipolar
+      Geometry Estimation from Tomographic Projections } \textit{ Proceedings of the 11th
+      ACCV }, Daejeon, South Korea, 2012.
+
+  \item C. Chen, L.-E.-B. Sorensen, F.-B. Lauze, C. Igel, M. Loog, A. Feragen, M. de
+    Bruijne, and M. Nielsen.  \textbf{Towards Exaggerated Emphysema Stereotypes}.  In
+    \textit{SPIE Medical Imaging (Computer Aided Diagnosis). Proceedings of SPIE
+      Med. Imag. Volue 8315}, San Diego, USA, 2012.  SPIE.
+
+  \item A. Prasoon, C. Igel, M. Loog, F.-B. Lauze, E.-B. Dam, and M. Nielsen.
+    \textbf{Cascaded Classifier for Large Scale Data Applied to Automatic Segmentation of
+      Articular Cartilage}.  In \textit{SPIE Medical Imaging (Image
+      Processing). Proceedings of SPIE Medical Imaging, Volume 8314}, San Diego, USA,
+    2012.  SPIE.
+
+  \item C. Chen, F. Lauze, C. Igel, A. Feragen, M.loog and M. Nielsen.  \textbf{Towards
+      Exaggerated Image Stereotypes}. In \textit{ Proceedings of the First Asian
+      Conference on Pattern Recognition (ACPR) 2012}. 422-426, Beijing, China, 2012.
+
+  \end{enumerate}
+
+\item[Publications in 2011]~\\
+  \begin{enumerate}
+  
+  \item S. H. Keller, F.-B. Lauze, and M. Nielsen.  \textbf{Video super-resolution using
+      simultaneous motion and intensity calculations}.  \textit{IEEE Transaction in Image
+      Processing}, 20(7):1870-1884, 2011.
+
+  \item M. Nielsen, M. Ganz, F.-B. Lauze, P. Pettersen, M. de Bruijne, T.-B. Clarkson,
+    E.-B. Dam, C. Christiansen, and Karsdal M..  \textbf{Distribution, size, shape, growth
+      potential and extent of abdominal aortic calcified deposits predict mortality in
+      postmenopausal women.}.  \textit{BMC Cardiovasular Disorders}, 1(1):-, 2011.
+
+  \item A. Ramirez-Manzanares, M. Rivera, P. Kornprobst, and F. B. Lauze.
+    \textbf{Variational multi-valued velocity field estimation for transparent sequences}.
+    \textit{Journal of Mathematical Imaging and Vision}, 40(3):285-304, 2011.
+
+  \item C. Chen, F.-B. Lauze, C. Igel, A. Feragen, M. Loog, and M. Nielsen.
+    \textbf{Towards Exaggerated Image Stereotypes}.  In \textit{Proceedings of ACPR 2011},
+    2011.
+
+  \item A. Feragen, S. Hauberg, M. Nielsen, and F.-B. Lauze.  \textbf{Means in spaces of
+      treelike shapes}.  In \textit{Proceedings of ICCV 2011}, 2011.
+
+  \item A. Feragen, P. Lo, V. Gorbunova, M. Nielsen, A. Dirksen, J. Rheinhardt,
+    F.-B. Lauze, and M. de Bruijne.  \textbf{An airway tree-shape model for geodesic
+      airway branch labeling}.  In \textit{Proceedings of Mathematical Foundations of
+      Computational Anatomy (in Conj. with MICCAI 2011)}, 2011.
+
+  \item X Huang, L.-L. Rak{\^e}t, H.-V. Luong, M. Nielsen, F.-B. Lauze, and
+    S. Forchhammer.  \textbf{Multi-hypothesis Transform Domain Wyner-Ziv Video Coding
+      including Optical Flow}.  In \textit{Proceedings of MMSP 2011}, 2011.
+
+  \item L.-L. Rak{\^e}t, L. Roholm, M. Nielsen, and F.-B. Lauze.  \textbf{TV-L1 Optical
+      Flow for Vector Valued Image}.  In Y Boykov, F Kahl, and V. Lempitsky, editors,
+    \textit{Proceedings of EMMCVPR 2011}, Lecture Notes in Computer Science, Saint
+    Petersburg, Russia, July 2011.  Springer.
+
+  \item S.-H. Sommer, F.-L. Lauze, M. Nielsen, and X. Pennec.  \textbf{Kernel Bundle
+      EPDiff: Evolution Equations for Multi-Scale Diffeomorphic Image Registration}.  In
+    \textit{Proceedings of SSVM 2011}, 2011.
+
+  \item S.-H Sommer, M. Nielsen, F. Lauze, and X. Pennec.  \textbf{A Multi-Scale Kernel
+      Bundle for LDDMM: Towards Sparse Deformation Description Across Space and Scales}.
+    In \textit{Proceedings of Information Processing in Medical Imaging (IPMI)}, 2011.
+
+  \item A. Tatu, F.-B. Lauze, M. Nielsen, and B. Kimia.  \textbf{Exploring the Capability
+      Representation of the HOG Descriptor}.  In \textit{Proceedings of IEEE. Workshop on
+      Information Theory in Computer Vision and Pattern Recognition, in conj. With ICCV
+      (to appear)}, 2011.
+
+  \item F.-B. Lauze and M. Nielsen.  \textbf{On Variational Methods For Motion Compensated
+      Inpainting}.  Technical report, Image Group, University of Copenhagen, 2011.
+
+  \item C. Chen, K. Chernoff, P. Lo, G. Karemore, M. Nielsen, and F. Lauze.  \textbf{Novel
+      Classification Using Adaptive Metric k-NN}.  Abstract, 1st IEEE Workshop on Kernels
+    and Distances For Computer Vision, in conj. with ICCV 2011, November 2011.  Note:
+    Abstract, 1st IEEE Workshop on Kernels and Distances For Computer Vision, in
+    conj. with ICCV 2011.
+
+  \end{enumerate}
+
+\item[Publications in 2010]~\\
+  \begin{enumerate}
+  
+  \item S.-H. Keller, F.-B. Lauze, and M. Nielsen.  \textbf{Temporal Superresolution using
+      Variational Methods}, in \textit{ High Quality Visual Experience: Creation,
+      Processing and Interactivity of High-Resolution and High-Dimensional Video Signals,
+      M. Mark, M. Grgic and M. Kunt Eds.  }chapter 11, pages 275-296.  Springer, Signals
+    and Communication Technology Series.  2010.
+
+  \item S.-H. Keller, F.-B. Lauze, and M. Nielsen.  \textbf{Deinterlacing Using
+      Variational Methods}.  \textit{IEEE Transaction in Image Processing},
+    17(11):2015-2028, 2010.
+
+  \item M. Loog and F. Lauze, \textbf{The Improbability of Harris Interest Points}.
+    \textit{IEEE Transaction in Pattern Analysis and Machine Intelligence},
+    32(6):1141-1147, 2010.
+
+  \item A. Tatu, F.-B. Lauze, S.-H. Sommer, and M. Nielsen.  \textbf{On Restricting Planar
+      Curve Evolution to Finite Dimensional Implicit Subspaces with Non-Euclidean Metric}.
+    \textit{Journal of Mathematical Imaging and Vision}, 38(3):226-240, 2010.
+
+  \item C. Chen, K. Chernoff, G.-R. Karemore, P. Lo, M. Nielsen, and F.-B. Lauze.
+    \textbf{Classification in Medical Image Analysis Using Adaptive Metric KNN}.  In
+    \textit{SPIE Medical Imaging (Computer Aided Diagnosis) 2010}, 2010.
+
+  \item A. Feragen, F.-B. Lauze, and M. Nielsen.  \textbf{Fundamental deformations in
+      spaces of treelike shapes.}.  In \textit{Proceedings of ICPR 2010.}, 2010.
+
+  \item A. Feragen, F. Lauze, P. Lo, M. de Bruijne and M. Nielsen \textbf{Geometries on
+      Spaces of Tree-Like Shapes.}  in \textit{ Proceedings of ACCV 2010.}
+
+  \item P. Julian, C. Dehais, Lauzem F.-B., V. Charvillat, A. Bartoli, and A. Choukroun.
+    \textbf{Automatic Hair Segmentation in the Wild}.  In \textit{Proceedings of ICPR
+      2010}, 2010.
+
+  \item S.-H. Sommer, F. Lauze, S. Hauberg, and M. Nielsen.  \textbf{Manifold Valued
+      Statistics, Exact Principal Geodesic Analysis and the Effect of Linear
+      Approximations}.  In K. Daniilidis, P. Maragos, and N. Paragios, editors,
+    \textit{Proceedings of ECCV 2010}, number IV of LNCS, Heraklion, Greece, pages 43-56,
+    September 2010.
+  \end{enumerate}
+\eject
+\item[Publications in 2009]~\\
+  
+\begin{enumerate}
+  
+  \item D.-K.-J. Gustafsson, K.-S. Pedersen, F-B. Lauze, and M. Nielsen.  \textbf{On the
+      Rate of Structural Change in Scale Spaces}.  In \textit{Proceedings of Scale-Space
+      and Variational Methods in Computer Vision (SSVM) 2009}, LNCS, pages 832-843, 2009.
+    Springer.
+
+  \item P. Julian, V. Charvillat, C. Dehais, and F. Lauze.  \textbf{De l'intrer{\^e}t de
+      la texture pour la segmentation du visage}.  In \textit{Proceedings of ORASIS 2009},
+    2009.
+
+  \item S.-H. Sommer, A. Tatu, C. Chen, D.-R. Jorgensen, M. de Bruijne, M. Loog,
+    M. Nielsen, and F. Lauze.  \textbf{Bicycle Chain Shape Models}.  In
+    \textit{Proceedings of CVPR 2009 Workshop MMBIA}, 2009.
+  \end{enumerate}
+
+\item[Publications in 2008]~\\
+
+  \begin{enumerate}
+  
+  \item F.-B. Lauze and M. Nielsen.  \textbf{From Inpainting to Active Contours}.
+    \textit{International Journal of Computer Vision}, 79(1):31-43, 2008.
+
+  \item C. Christiansen, M. Karsdal, F.-B. Lauze, E.-B. Dam, M. Ganz, M. de Bruijne,
+    L.-E.-B. Sorensen, N. Barascuk, and M. Nielsen.  \textbf{Automated Quantification of
+      the Morphological Atherosclerotic Calcification Distribution on X-Rays Is a Strong
+      Predictor of Mortality in Postmenopausal Women}.  In \textit{Arteriosclerosis,
+      Thrombosis, and Vascular Biology}, volume 6, 2008.
+
+  \item A. Qasi, E.-B. Dam, M. Loog, M. Nielsen, F.-B. Lauze, and C. Christiansen.
+    \textbf{A Variational Method for Automatic Localization of the most Pathological ROI}.
+    In Rheinhardt J.-M. and J. Pluim, editors, \textit{SPIE Medical Imaging (Image
+      Processing) 2008}, volume 6914, San Diego, UAS, February 2008.  SPIE.
+  \end{enumerate}
+
+\item[Publications in 2007]~\\
+
+  \begin{enumerate}
+  \item L. Conrad-Hansen, M. de Bruijne, F.-B. Lauze, L. Tank{\'o}, P. Pettersen,Q. He,
+    J. Chen, and C. Christiansen.  \textbf{Quantifying Calcifications in the Lumbar Aorta
+      on X-Rays}.  In \textit{Proceedings of MICCAI 2007}, number 2 of LNCS, Brisbane,
+    Australia, pages 352-359, 2007.  The MICCAI Society, Springer.
+
+  \item D.-W. Hansen, R. Larsen, and F.-B. Lauze.  \textbf{Improving Face Detection with
+      TOF Cameras}.  In \textit{Proceedings of the International Symposium on Signals,
+      Circuits and Systems}, pages 225-228, 2007.  IEEE Signal Processing Society, IEEE.
+
+  \item J.-E. Iglesias, M. de Bruijne, M. Loog, F.-B. Lauze, and M. Nielsen.  \textbf{A
+      Family of Principal Component Analyses for Dealing with Outliers}.  In
+    \textit{Proceedings of MICCAI 2007}, number 2 of LNCS, Brisbane, Australia, pages
+    227-238, 2007.  The MICCAI Society, Springer.
+
+  \item S.-H. Keller, F.-B. Lauze, and M. Nielsen.  \textbf{Motion Compensated Video
+      Superresolution}.  In \textit{Proceedings of Scale-Space and Variational Methods in
+      Computer Vision (SSVM) 2007}, LNCS, pages 801-812, 2007.  Springer.
+
+  \item M. Loog and F.-B. Lauze.  \textbf{Blur Invariant Image Priors}.  In
+    \textit{Proceedings of Scale-Space and Variational Methods in Computer Vision (SSVM)
+      2007}, LNCS, pages 665-674, 2007.  Springer.
+
+  \item A. Ramirez-Manzanares, M. Rivera, P. Kornprobst, and F.-B. Lauze.  \textbf{A
+      Variational Approach for Multi-Valued Velocity Field Estimation in Transparent
+      Sequences}.  In \textit{Proceedings of Scale-Space and Variational Methods in
+      Computer Vision (SSVM) 2007}, LNCS, pages 227-238, 2007.  Springer.
+
+  \item A. Tatu, F.-B. Lauze, M. Nielsen, and O.-F. Olsen.  \textbf{Curve Evolution In
+      Subspaces}.  In \textit{Proceedings of Scale-Space and Variational Methods in
+      Computer Vision (SSVM) 2007}, number LNCS, pages 754-764, 2007.  Springer.
+
+  \end{enumerate}
+
+\item[Publications in 2006]~\\
+  \begin{enumerate} 
+
+  \item T. Brox, R. van den Boomgaard, F.-B. Lauze, J. van de Wejer, J. Weickert,
+    P. Mraz{\'e}k, and P. Kornprobst.  \textbf{Adaptive Structure Tensors and their
+      applications}, in \textit{Visualisation and Processing of Tensor Fields, J. Weickert
+      and H. Hagen Eds.} chapter 2, pages 17-47.  Springer Series on Mathematics and
+    Visualisation, 2006.
+
+  \item L. Conrad-Hansen, M. de Bruijne, F.-B. Lauze, and M. Nielsen.  \textbf{A Pixelwise
+      Inpainting-Based Refinement Scheme for Quantizing Calcification in the Lumbar Aorta
+      on 2D Lateral X-Ray Images}.  In \textit{SPIE Medical Imaging 2006 (Image
+      Processing)}, 2006.
+
+  \item A. Ramirez-Manzanares, M. Rivera, P. Kornprobst, and F. Lauze.
+    \textbf{Multi-Valued Motion Fields Estimation for Transparent Sequences with a
+      Variational Approach}.  Technical report RR-5920, INRIA -- CIMAT, 2006.
+
+  \item F.-B. Lauze and M. Nielsen.  \textbf{Inpainting Driven Segmentation}, 2006 (Patent
+    application).
+ 
+  \end{enumerate}
+
+\item[Publications in 2005]~\\
+  \begin{enumerate}
+
+  \item L.- Conrad-Hansen, M. de Bruijne, F. Lauze, and M. Nielsen.  \textbf{Quantifying
+      Calcification of the Lumbar Aorta on 2D Lateral X-Ray Images}.  In
+    \textit{Proceedings of CVBIA 2005}, pages 409-418, 2005.
+
+  \item F.-B. Lauze and M. Nielsen.  \textbf{From Inpainting to Active Contours.}.  In
+    \textit{Proceedings of the Variational Geometric and Level-Set Methods in Computer
+      Vision Workshop (VLSM), in conj. with ICCV 2005}, LNCS, Bejing, China, pages 97-108,
+    October 2005.  Springer.
+  
+  \end{enumerate}
+
+\item[Publications in 2004]~\\
+  \begin{enumerate}
+  
+  \item F.-B. Lauze.  \textbf{Computational Algorithms for Motion Recovery, Motion
+      Compensated Inpainting and Applications}.  PhD thesis, The IT University of
+    Copenhagen, 2004.
+
+  \item F.-B. Lauze, P. Kornprobst, C. Lenglet, R. Deriche, and M. Nielsen.  \textbf{Sur
+      Quelques M{\'e}thodes de Calcul de Flot Optique {\`a} partir du Tenseur de Structure
+      : Synth{\`e}se et Contribution}.  In \textit{ACTES RFIA}, pages 283-292, 2004.
+
+  \item F. B. Lauze, P. Kornprobst, and E. M{\'e}min.  \textbf{A Coarse-To-Fine Multiscale
+      Approach for Linear Least Squares Optical Flow Estimation}.  In \textit{Proceedings
+      of BMVC 2004}, number 2, pages 767-776, 2004.  BMVA.
+
+  \item F.-B. Lauze and M. Nielsen.  \textbf{A Variational Algorithm for Motion
+      Compensated Inpainting}.  In \textit{Proceedings of BMVC 2004}, volume 2, pages
+    777-787, 2004.
+
+  \item L.-H. Conrad-Hansen, F.-B. Lauze, M. de Bruijne, and M. Nielsen.  \textbf{A Method
+      of Deriving a Quantitative Measure of a Degree of Calcification of an Aorta}, 2004
+    (Patent application).
+
+  \item F.-B. Lauze, S.-H. Keller, and M. Nielsen.  \textbf{A Method of Adding a Frame in
+      a Video Sequence}, 2004 (Patent application).
+
+  \end{enumerate}
+
+\item[Publications in 1997]~\\
+  \begin{enumerate}
+  \item F.-B. Lauze.  \textbf{Rang Maximal pour $T\PP^n$ ( A maximal rank property for the
+      tangent bundle $T\PP^n$ of the projective space $\PP^n$)}.  \textit{Manuscripta
+      Mathematica}, 92:525-543, 1997.
+  \end{enumerate}
+
+\item[Publications in 1994]~\\
+  \begin{enumerate}
+  
+  \item F. B. Lauze.  \textbf{Sur la R{\'e}solution Minimale Libre des Id{\'e}aux
+      d'Arrangement de Points G{\'e}n{\'e}riques dans les Espaces Projectifs}.  PhD
+    thesis, University of Nice-Sophia-Antipolis, 1994.
+
+  \end{enumerate}
+
+\end{description}
+
+
+
+
+
+\end{document}

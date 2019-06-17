@@ -1,0 +1,205 @@
+/* my second style sheet */
+body {
+	font-size:small;
+   	font-family:sans-serif;
+	margin:4em 0px 0px 11.0em;
+	margin-right:0.5em;
+	padding:0px;
+	background:white;
+	height:100%;
+	color:black;
+}
+
+table {
+	font-size:small;
+}
+
+p.std {
+line-height:normal; 
+margin-top:10px;
+clor:red;
+} 
+
+h1 { 
+	text-align:left;
+	/*font-size:large;*/
+	/*font-family:arial,sans-serif; */
+	font-weight:bold;
+}
+
+h3, h4, h5, h6 { 
+	text-align:left;
+	font-weight:bold;
+	/*font-family:arial,sans-serif;*/
+}
+
+h2 { 
+	text-align:left;
+	font-weight:bold;
+	margin-top:20px;
+	/*font-family:arial,sans-serif;*/
+}
+
+h3 { 
+	text-align:left;
+	font-weight:bold;
+	/*font-family:arial,sans-serif;*/
+}
+
+.quote {
+	margin-left:2ex;
+	margin-right:2ex;
+	font-style:italic;	
+	}
+
+.navigation { 
+	position:absolute;
+	top:4em;
+	left:0px;
+	/*border:1px solid black;*/
+	width:11em;
+	padding:0px;
+	font-size:small;
+	text-align:left;
+	/*font-family:arial,sans-serif;*/
+}
+body>.navigation {
+	position:fixed;
+}
+
+#header { 
+	position:absolute;
+	min-width:100%;
+	/*border-bottom:white 5px solid;*/
+	margin:0px;
+	padding:0px;
+	color:white;
+	padding-left:10px;
+	padding-right:10px;
+	top:0px;left:0px;
+	background:#005500;
+	text-align:left;}
+body>#header {
+	position:fixed;
+}
+
+ul {
+	list-style-type:square;
+	margin-top:-10px;
+	margin-left:0px;
+	/*margin: 0px; */
+	padding: 0px; 
+	padding-left:2.5ex;
+}
+
+ul ul {
+	color:#005500;
+	color:gray;
+}
+
+vol {
+	font-weight:bold;
+}
+
+.sup:link, .sup:visited  {
+	font-size:x-small;
+	border-style:outset;
+	border-width:thin;
+	border-color:#005500;
+	text-decoration:none;
+	text-align:right;
+        text-decoration:none;
+}
+
+.topsep {
+	margin-top:3em;
+}
+
+.menu:link, .menu:visited {
+	font-style:normal;
+	margin-left:0px;
+	text-decoration:none;
+	/*border-style:hidden;*/
+	border-style:solid;
+	border-width:thin;
+	border-color:white;
+	background:white;
+}
+
+.menu:hover{
+	font-style:normal;
+	margin-left:0px;
+	text-decoration:none;
+	border-left-style:solid;
+	border-left-width:thin;
+	border-left-color:#005500;
+	border-top-style:solid;
+	border-top-width:thin;
+	border-top-color:#005500;
+}
+
+.menusec:link, .menusec:visited {
+	margin-left:1ex;
+	text-decoration:none;
+	border-color:white;
+	border-width:thin;
+	border-style:solid;
+	background:white;
+	font-size:x-small;
+	/*font-style:italic;*/
+}
+body>.menusec:link {
+	font-size:smaller;
+}
+body>.menusec:visited {
+	font-size:smaller;
+}
+
+.menusec:hover{
+	margin-left:1ex;
+	text-decoration:none;
+	border-left-style:solid;
+	border-left-width:thin;
+	border-left-color:#005500;
+	border-top-style:solid;
+	border-top-width:thin;
+	border-top-color:#005500;
+	font-size:x-small;
+	/*font-style:italic;*/
+}
+body>.menusec:hover {
+	font-size:smaller;
+}
+
+div.footnote { 
+	font-size:x-small;
+	text-align:right;
+	/*font-family:arial,sans-serif;*/
+}
+
+div.publication { 
+	/*background-color:"E0E0E0";*/
+	font-size:small;
+	margin-bottom:1em;
+	text-indent:-3em;
+	margin-left:3em;
+	display:block;
+	/*font-family:arial,sans-serif;*/
+}
+
+a:link,
+a:visited,
+a:active,
+a:focus {
+	color:#005500; 
+	text-decoration:none;
+	background-color:transparent; 
+	border:0;outline-width:0px;
+}
+
+a:hover {
+	color:#005500; 
+	background-color:transparent; 
+	text-decoration:underline;
+}
+
